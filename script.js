@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
-  var firebaseConfig = {
-    apiKey: "AIzaSyCGr8a53Aid9jYkehdYKE-NxMIG42iGsGM",
-    authDomain: "sok-fire.firebaseapp.com",
-    databaseURL: "https://sok-fire.firebaseio.com",
-    projectId: "sok-fire",
-    storageBucket: "sok-fire.appspot.com",
-    messagingSenderId: "1050121333194"
+ var firebaseConfig = {
+    apiKey: "AIzaSyCa5Lodb8GIjKv3UhbnEMhGL4iAu4088Qw",
+    authDomain: "paul-recap-database.firebaseapp.com",
+    databaseURL: "https://paul-recap-database.firebaseio.com",
+    projectId: "paul-recap-database",
+    storageBucket: "paul-recap-database.appspot.com",
+    messagingSenderId: "1079996055905"
 };
 firebase.initializeApp(config);
 
